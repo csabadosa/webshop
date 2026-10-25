@@ -1,0 +1,802 @@
+[
+ {
+  "code": "540560",
+  "name": "ULEI HLP32 HYDROTECH 10L",
+  "um": "BUC",
+  "totalQty": 780,
+  "revenue": 73320,
+  "avgPrice": 94.0,
+  "lastPrice": 94,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540312",
+  "name": "ULEI H46 20L A MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 398,
+  "revenue": 67844,
+  "avgPrice": 170.46,
+  "lastPrice": 195,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "142",
+  "name": "ULEI LANT 20L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 187,
+  "revenue": 36214,
+  "avgPrice": 193.66,
+  "lastPrice": 208.7,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "5862",
+  "name": "ULEI LANT 1L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 3182,
+  "revenue": 32493,
+  "avgPrice": 10.21,
+  "lastPrice": 12.37,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "459",
+  "name": "ULEI LANT 4L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 772,
+  "revenue": 31663,
+  "avgPrice": 41.01,
+  "lastPrice": 44.5,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540311",
+  "name": "ULEI 5W30 1L CASTROL EDGE LONGLIFE",
+  "um": "BUC",
+  "totalQty": 615,
+  "revenue": 29008,
+  "avgPrice": 47.17,
+  "lastPrice": 49.28,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540339",
+  "name": "ULEI H46 20L EP MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 133,
+  "revenue": 28495,
+  "avgPrice": 214.25,
+  "lastPrice": 227.9,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540313",
+  "name": "ULEI M40 20L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 144,
+  "revenue": 26564,
+  "avgPrice": 184.47,
+  "lastPrice": 216.2,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M4441",
+  "name": "CRIC AUTO 4441",
+  "um": "BUC",
+  "totalQty": 423,
+  "revenue": 25314,
+  "avgPrice": 59.84,
+  "lastPrice": 59.8,
+  "category": "Ridicare & susținere"
+ },
+ {
+  "code": "M0529",
+  "name": "SET CAPRE AUTO 3T",
+  "um": "BUC",
+  "totalQty": 363,
+  "revenue": 25104,
+  "avgPrice": 69.16,
+  "lastPrice": 70.64,
+  "category": "Ridicare & susținere"
+ },
+ {
+  "code": "G121VIP",
+  "name": "ANTIGEL ROSU 1L G12 MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 3095,
+  "revenue": 23609,
+  "avgPrice": 7.63,
+  "lastPrice": 8.96,
+  "category": "Antigel & lichide"
+ },
+ {
+  "code": "10899",
+  "name": "TRUSA MEDICALA",
+  "um": "BUC",
+  "totalQty": 1121,
+  "revenue": 23580,
+  "avgPrice": 21.04,
+  "lastPrice": 27.8,
+  "category": "Siguranță & urgență"
+ },
+ {
+  "code": "1008",
+  "name": "ULEI H46 10L A MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 229,
+  "revenue": 21024,
+  "avgPrice": 91.81,
+  "lastPrice": 110.35,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540662",
+  "name": "SOLUTIE SPALAT PARBRIZ -20 IARNA",
+  "um": "BUC",
+  "totalQty": 1416,
+  "revenue": 19579,
+  "avgPrice": 13.83,
+  "lastPrice": 14.8,
+  "category": "Lichid parbriz"
+ },
+ {
+  "code": "5881",
+  "name": "ULEI M40 10L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 194,
+  "revenue": 19409,
+  "avgPrice": 100.05,
+  "lastPrice": 120.97,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M0695",
+  "name": "SUPORT NUMAR INOX GRI",
+  "um": "BUC",
+  "totalQty": 1596,
+  "revenue": 19073,
+  "avgPrice": 11.95,
+  "lastPrice": 13.8,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "MA01141",
+  "name": "SPRAY CURATAT AER CONDITIONAT 250ML",
+  "um": "BUC",
+  "totalQty": 2019,
+  "revenue": 18789,
+  "avgPrice": 9.31,
+  "lastPrice": 9.65,
+  "category": "Spray-uri & chimice"
+ },
+ {
+  "code": "540315",
+  "name": "ULEI T90 20L A MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 92,
+  "revenue": 18497,
+  "avgPrice": 201.06,
+  "lastPrice": 217,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "12401",
+  "name": "STINGATOR REINCARCABIL 1KG P1",
+  "um": "BUC",
+  "totalQty": 511,
+  "revenue": 17833,
+  "avgPrice": 34.9,
+  "lastPrice": 40.75,
+  "category": "Siguranță & urgență"
+ },
+ {
+  "code": "8562",
+  "name": "AD BLUE TEKBLUE 10L PET",
+  "um": "BUC",
+  "totalQty": 534,
+  "revenue": 17217,
+  "avgPrice": 32.24,
+  "lastPrice": 30.3,
+  "category": "AdBlue"
+ },
+ {
+  "code": "15876",
+  "name": "ULEI 10W40 1L CASTROL MAGNATEC A3/A4",
+  "um": "BUC",
+  "totalQty": 572,
+  "revenue": 16413,
+  "avgPrice": 28.69,
+  "lastPrice": 28.25,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540310",
+  "name": "ULEI 5W40 1L CASTROL EDGE",
+  "um": "BUC",
+  "totalQty": 400,
+  "revenue": 15674,
+  "avgPrice": 39.18,
+  "lastPrice": 42.8,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M0000240",
+  "name": "SUPORT BICICLETA 0000240",
+  "um": "BUC",
+  "totalQty": 158,
+  "revenue": 15032,
+  "avgPrice": 95.14,
+  "lastPrice": 94.92,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "10W40 1L",
+  "name": "ULEI 10W40 1L MOTOR OIL STANDARD",
+  "um": "BUC",
+  "totalQty": 892,
+  "revenue": 14574,
+  "avgPrice": 16.34,
+  "lastPrice": 17,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "13",
+  "name": "SOLUTIE SPALAT PARBRIZ -20C OSIP",
+  "um": "BUC",
+  "totalQty": 889,
+  "revenue": 14147,
+  "avgPrice": 15.91,
+  "lastPrice": 15,
+  "category": "Lichid parbriz"
+ },
+ {
+  "code": "540567",
+  "name": "TEAVA INJECTOR",
+  "um": "KG",
+  "totalQty": 400,
+  "revenue": 13820,
+  "avgPrice": 34.55,
+  "lastPrice": 34.55,
+  "category": "Scule & piese"
+ },
+ {
+  "code": "540555",
+  "name": "KIT ULEI 200L AMESTEC",
+  "um": "LITRI",
+  "totalQty": 2,
+  "revenue": 13360,
+  "avgPrice": 6680.0,
+  "lastPrice": 6680,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540568",
+  "name": "VASELINA 0.4KG U90CA3",
+  "um": "BUC",
+  "totalQty": 1306,
+  "revenue": 12645,
+  "avgPrice": 9.68,
+  "lastPrice": 12.9,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "105",
+  "name": "ULEI 15W40 20L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 60,
+  "revenue": 12343,
+  "avgPrice": 205.72,
+  "lastPrice": 241,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "12368",
+  "name": "ULEI STIHL 0.5L",
+  "um": "BUC",
+  "totalQty": 518,
+  "revenue": 12263,
+  "avgPrice": 23.67,
+  "lastPrice": 24.9,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540314",
+  "name": "ULEI T90 10L A MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 115,
+  "revenue": 12258,
+  "avgPrice": 106.59,
+  "lastPrice": 118.97,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "127",
+  "name": "VALVOLINA 4L T140 MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 224,
+  "revenue": 11915,
+  "avgPrice": 53.19,
+  "lastPrice": 59.6,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "5860",
+  "name": "ULEI M40 4L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 263,
+  "revenue": 11833,
+  "avgPrice": 44.99,
+  "lastPrice": 52.25,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540340",
+  "name": "ULEI T90 1L A MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 1018,
+  "revenue": 11632,
+  "avgPrice": 11.43,
+  "lastPrice": 13.45,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M2614",
+  "name": "BEC H7 12V 55W",
+  "um": "BUC",
+  "totalQty": 2579,
+  "revenue": 11536,
+  "avgPrice": 4.47,
+  "lastPrice": 4.9,
+  "category": "Becuri & iluminat"
+ },
+ {
+  "code": "540370",
+  "name": "ULEI H46 4L A MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 286,
+  "revenue": 11453,
+  "avgPrice": 40.05,
+  "lastPrice": 43,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "12113",
+  "name": "ULEI 10W40 1L MOBIL BENZINA/DIESEL",
+  "um": "BUC",
+  "totalQty": 418,
+  "revenue": 11111,
+  "avgPrice": 26.58,
+  "lastPrice": 32,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540344",
+  "name": "ULEI 5W30 1L CASTROL A5 MAGNATEC",
+  "um": "BUC",
+  "totalQty": 297,
+  "revenue": 11088,
+  "avgPrice": 37.33,
+  "lastPrice": 41.05,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "12369",
+  "name": "ULEI STIHL 1L",
+  "um": "BUC",
+  "totalQty": 243,
+  "revenue": 10426,
+  "avgPrice": 42.9,
+  "lastPrice": 43.7,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "31",
+  "name": "ULEI 2T 0.5 ROSU HEXOL",
+  "um": "BUC",
+  "totalQty": 1162,
+  "revenue": 10277,
+  "avgPrice": 8.84,
+  "lastPrice": 9.5,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "5880",
+  "name": "VALVOLINA 1L T140 MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 729,
+  "revenue": 10242,
+  "avgPrice": 14.05,
+  "lastPrice": 15.15,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M5271",
+  "name": "CANISTRA 20L 5271",
+  "um": "BUC",
+  "totalQty": 324,
+  "revenue": 10233,
+  "avgPrice": 31.58,
+  "lastPrice": 33.55,
+  "category": "Canistre & recipiente"
+ },
+ {
+  "code": "540304",
+  "name": "ULEI T90 4L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 225,
+  "revenue": 10183,
+  "avgPrice": 45.26,
+  "lastPrice": 49,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M583199",
+  "name": "SUPORT NUMAR 2 PIESE",
+  "um": "BUC",
+  "totalQty": 513,
+  "revenue": 9863,
+  "avgPrice": 19.23,
+  "lastPrice": 19.1,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "855",
+  "name": "ULEI M40 1L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 841,
+  "revenue": 9537,
+  "avgPrice": 11.34,
+  "lastPrice": 13.4,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M2585",
+  "name": "CANISTRA PLASTIC 5L",
+  "um": "BUC",
+  "totalQty": 585,
+  "revenue": 8899,
+  "avgPrice": 15.21,
+  "lastPrice": 19.8,
+  "category": "Canistre & recipiente"
+ },
+ {
+  "code": "1839",
+  "name": "ULEI ATF 1L HEXOL",
+  "um": "BUC",
+  "totalQty": 625,
+  "revenue": 8745,
+  "avgPrice": 13.99,
+  "lastPrice": 15.5,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M9447",
+  "name": "LANTURI DE ZAPADA Y120",
+  "um": "BUC",
+  "totalQty": 122,
+  "revenue": 8693,
+  "avgPrice": 71.26,
+  "lastPrice": 70.15,
+  "category": "Sezon rece"
+ },
+ {
+  "code": "M9454",
+  "name": "LANTURI DE ZAPADA Y130",
+  "um": "BUC",
+  "totalQty": 117,
+  "revenue": 8545,
+  "avgPrice": 73.03,
+  "lastPrice": 96.55,
+  "category": "Sezon rece"
+ },
+ {
+  "code": "73",
+  "name": "ULEI 5W40 1L CASTROL DIESEL DPF",
+  "um": "BUC",
+  "totalQty": 248,
+  "revenue": 8023,
+  "avgPrice": 32.35,
+  "lastPrice": 33.35,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540303",
+  "name": "ULEI H46 1L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 768,
+  "revenue": 7993,
+  "avgPrice": 10.41,
+  "lastPrice": 10.4,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540356",
+  "name": "ULEI 10W30 1L HONDA",
+  "um": "BUC",
+  "totalQty": 174,
+  "revenue": 7659,
+  "avgPrice": 44.02,
+  "lastPrice": 53.65,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M5791",
+  "name": "PRELATA AUTO EXTERIOR 5791",
+  "um": "BUC",
+  "totalQty": 35,
+  "revenue": 7595,
+  "avgPrice": 216.99,
+  "lastPrice": 222.05,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "MPP00231",
+  "name": "ODORIZANT IMAO DIFERITE AROME",
+  "um": "BUC",
+  "totalQty": 646,
+  "revenue": 7565,
+  "avgPrice": 11.71,
+  "lastPrice": 11.12,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "540375",
+  "name": "VALVOLINA 10L T140 MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 60,
+  "revenue": 7411,
+  "avgPrice": 123.52,
+  "lastPrice": 142,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M6209",
+  "name": "SUPORT 2 BICICLETE ELECTRICE",
+  "um": "BUC",
+  "totalQty": 9,
+  "revenue": 7357,
+  "avgPrice": 817.44,
+  "lastPrice": 829.67,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "M0770",
+  "name": "REDRESOR BATERIE 6V/12V 8A 0770",
+  "um": "BUC",
+  "totalQty": 85,
+  "revenue": 7110,
+  "avgPrice": 83.64,
+  "lastPrice": 82.76,
+  "category": "Cabluri & electrice"
+ },
+ {
+  "code": "540342",
+  "name": "ULEI ATF 1L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 455,
+  "revenue": 7013,
+  "avgPrice": 15.41,
+  "lastPrice": 17.37,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "1897",
+  "name": "SOLUTIE SPALAT PARBRIZ VARA 5L OSIP",
+  "um": "BUC",
+  "totalQty": 1131,
+  "revenue": 6906,
+  "avgPrice": 6.11,
+  "lastPrice": 5.9,
+  "category": "Lichid parbriz"
+ },
+ {
+  "code": "540305",
+  "name": "ULEI 5W40 1L CASTROL C3",
+  "um": "BUC",
+  "totalQty": 199,
+  "revenue": 6770,
+  "avgPrice": 34.02,
+  "lastPrice": 34.12,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M9224",
+  "name": "COVORAS AUTO SET 4BUC",
+  "um": "BUC",
+  "totalQty": 156,
+  "revenue": 6703,
+  "avgPrice": 42.97,
+  "lastPrice": 45,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "M5577",
+  "name": "BEC H7 24V 100W 5577",
+  "um": "BUC",
+  "totalQty": 1010,
+  "revenue": 6483,
+  "avgPrice": 6.42,
+  "lastPrice": 6.5,
+  "category": "Becuri & iluminat"
+ },
+ {
+  "code": "540300",
+  "name": "ULEI 5W40 1L MOBIL SUPER 3000",
+  "um": "BUC",
+  "totalQty": 173,
+  "revenue": 6221,
+  "avgPrice": 35.96,
+  "lastPrice": 38.72,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M1549",
+  "name": "HUSA SUV L 1549",
+  "um": "BUC",
+  "totalQty": 27,
+  "revenue": 6166,
+  "avgPrice": 228.37,
+  "lastPrice": 233.26,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "M7367",
+  "name": "BARA PORTBAGAJ 7367",
+  "um": "BUC",
+  "totalQty": 34,
+  "revenue": 6152,
+  "avgPrice": 180.94,
+  "lastPrice": 181.7,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "MA01060",
+  "name": "SPRAY BORD 750ML DIF AROME",
+  "um": "BUC",
+  "totalQty": 386,
+  "revenue": 6149,
+  "avgPrice": 15.93,
+  "lastPrice": 15.98,
+  "category": "Spray-uri & chimice"
+ },
+ {
+  "code": "R1902A",
+  "name": "SPRAY PORNIRE 200ML PREVENT",
+  "um": "BUC",
+  "totalQty": 381,
+  "revenue": 6127,
+  "avgPrice": 16.08,
+  "lastPrice": 16.6,
+  "category": "Spray-uri & chimice"
+ },
+ {
+  "code": "540530",
+  "name": "AD BLUE 10L PET",
+  "um": "BUC",
+  "totalQty": 146,
+  "revenue": 6047,
+  "avgPrice": 41.42,
+  "lastPrice": 44,
+  "category": "AdBlue"
+ },
+ {
+  "code": "33",
+  "name": "ULEI 2T 1L ROSU HEXOL",
+  "um": "BUC",
+  "totalQty": 398,
+  "revenue": 6028,
+  "avgPrice": 15.15,
+  "lastPrice": 16.56,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "3718",
+  "name": "ULEI 15W40 1L MOBIL BENZINA DIESEL",
+  "um": "BUC",
+  "totalQty": 189,
+  "revenue": 5619,
+  "avgPrice": 29.73,
+  "lastPrice": 35.5,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540327",
+  "name": "ULEI 10W40 1L HEXOL SPRINT",
+  "um": "BUC",
+  "totalQty": 311,
+  "revenue": 5594,
+  "avgPrice": 17.99,
+  "lastPrice": 20.6,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "M8042",
+  "name": "JALUZELE RETRACTABILE LATERALE 55CM",
+  "um": "BUC",
+  "totalQty": 204,
+  "revenue": 5483,
+  "avgPrice": 26.88,
+  "lastPrice": 33,
+  "category": "Accesorii auto"
+ },
+ {
+  "code": "M4359",
+  "name": "CHEIE ROTI TELESCOPICA 17-19MM",
+  "um": "BUC",
+  "totalQty": 324,
+  "revenue": 5482,
+  "avgPrice": 16.92,
+  "lastPrice": 22,
+  "category": "Scule & piese"
+ },
+ {
+  "code": "M2592",
+  "name": "CANISTRA PLASTIC 10L 2592",
+  "um": "BUC",
+  "totalQty": 281,
+  "revenue": 5476,
+  "avgPrice": 19.49,
+  "lastPrice": 25,
+  "category": "Canistre & recipiente"
+ },
+ {
+  "code": "856",
+  "name": "ULEI 20W40 1L MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 470,
+  "revenue": 5457,
+  "avgPrice": 11.61,
+  "lastPrice": 13.1,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540302",
+  "name": "ULEI 5W30 1L MOBIL XE",
+  "um": "BUC",
+  "totalQty": 147,
+  "revenue": 5455,
+  "avgPrice": 37.11,
+  "lastPrice": 41.52,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "5863",
+  "name": "VALVOLINA 20L T140 MOTOR OIL",
+  "um": "BUC",
+  "totalQty": 23,
+  "revenue": 5420,
+  "avgPrice": 235.65,
+  "lastPrice": 259.35,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "1870",
+  "name": "LICHID FRANA DUOPRIM DOT4 0.43L",
+  "um": "BUC",
+  "totalQty": 380,
+  "revenue": 5370,
+  "avgPrice": 14.13,
+  "lastPrice": 14.94,
+  "category": "Antigel & lichide"
+ },
+ {
+  "code": "540436",
+  "name": "VASELINA 4KG  U90CA3 SOLIDOL",
+  "um": "BUC",
+  "totalQty": 89,
+  "revenue": 5359,
+  "avgPrice": 60.21,
+  "lastPrice": 62.2,
+  "category": "Uleiuri & lubrifianți"
+ },
+ {
+  "code": "540582",
+  "name": "AD BLUE 1000L RECIPIENT",
+  "um": "BUC",
+  "totalQty": 3,
+  "revenue": 5275,
+  "avgPrice": 1758.33,
+  "lastPrice": 1840,
+  "category": "AdBlue"
+ }
+]

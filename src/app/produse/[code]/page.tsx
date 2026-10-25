@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ProductCard } from "@/components/ProductCard";
@@ -26,9 +27,35 @@ export async function generateMetadata({
   };
 }
 
-export default async function ProductPage({
+export default function ProductPage({ params }: PageProps<"/produse/[code]">) {
+  return (
+    <Suspense fallback={<ProductSkeleton />}>
+      <ProductView params={params} />
+    </Suspense>
+  );
+}
+
+function ProductSkeleton() {
+  return (
+    <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+      <div className="h-4 w-64 bg-line" />
+      <div className="mt-8 grid gap-10 lg:grid-cols-[1.1fr_1fr]">
+        <div className="h-80 border border-line bg-panel" />
+        <div className="space-y-4">
+          <div className="h-10 w-40 bg-line" />
+          <div className="h-12 w-full bg-line" />
+          <div className="h-48 w-full bg-panel" />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+async function ProductView({
   params,
-}: PageProps<"/produse/[code]">) {
+}: {
+  params: PageProps<"/produse/[code]">["params"];
+}) {
   const { code } = await params;
   const product = getProductByCode(decodeURIComponent(code));
   if (!product) notFound();

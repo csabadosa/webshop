@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ProductBrowser } from "@/components/ProductBrowser";
@@ -24,9 +25,34 @@ export async function generateMetadata({
   };
 }
 
-export default async function CategoryPage({
+export default function CategoryPage({
   params,
 }: PageProps<"/categorii/[slug]">) {
+  return (
+    <Suspense fallback={<CategorySkeleton />}>
+      <CategoryView params={params} />
+    </Suspense>
+  );
+}
+
+function CategorySkeleton() {
+  return (
+    <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+      <div className="h-4 w-56 bg-line" />
+      <div className="mt-8 h-10 w-72 bg-line" />
+      <div className="mt-10 grid gap-8 lg:grid-cols-[220px_1fr]">
+        <div className="h-96 bg-panel" />
+        <div className="h-96 bg-panel" />
+      </div>
+    </div>
+  );
+}
+
+async function CategoryView({
+  params,
+}: {
+  params: PageProps<"/categorii/[slug]">["params"];
+}) {
   const { slug } = await params;
   const category = getCategoryBySlug(slug);
   if (!category) notFound();
